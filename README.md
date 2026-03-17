@@ -20,8 +20,6 @@ Here’s a screenshot of the program in action:
 
 ![Student Management System Output](output.png)
 
-> **Tip:** Replace `output.png` with your actual screenshot file name.
-
 ---
 
 ## 🛠️ Requirements
